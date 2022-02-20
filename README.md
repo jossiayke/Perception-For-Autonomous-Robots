@@ -1,17 +1,16 @@
 # Perception-For-Autonomous-Robots
 Coursework in Computer Vision
-Prompts for Challenge 1
-1. Use Standard Least Squares to fit curves to the given videos in each case. You
-have to plot the data and your best fit curve for each case. Submit your code
-along with the instructions to run it.
-2. Compute the covariance matrix (from scratch) and find its eigenvalues and
-eigenvectors. Plot the eigenvectors on the same graph as the data. Refer to this
-article for better understanding. [10]
-3. Fit a line to the data using linear least square method, total least square method
-and RANSAC. Plot the result for each method and explain
-drawbacks/advantages for each. [15]
-4. Briefly explain all the steps of your solution and discuss which would be a better
-choice of outlier rejection technique for each case. [5]
-5. Show mathematically how you will compute the Singular Value Decomposition
-(SVD) for the matrix A. [10]
-6. Write python code to compute the SVD. [10]
+
+Course expectation and subject area
+
+This course offers a foundation in computer vision. The students will learn 
+techniques  and  algorithms  that  can  be used  to  solve an  abundance  of 
+perception  problems.  This  course  is  dedicated  to  anyone  interested  in 
+giving their autonomous system (e.g. robot, autonomous driving car, or 
+simply  a  smart  camera)  means  to  understand  their  surrounding  world. 
+Throughout  the  projects  of  this  course  students  will  gain  hands-on 
+experience  in  solving  real-life  problems  such  as  lane  detecting  for 
+autonomous driving, computing velocities of moving objects, and building 
+a 3D model of an object using 2D images from cameras. Moreover, students 
+will gain experience with state-of-the-art tools such as programming using 
+OpenCV and Python.
